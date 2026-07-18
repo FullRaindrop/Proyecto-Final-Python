@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "fecha": "2026-07-16 19:19:25",
+        "usuario": "mm@gmail.com",
+        "equipo_local": "Argentina",
+        "equipo_visitante": "Inglaterra",
+        "pronostico": "Argentina",
+        "monto": 100.0,
+        "cuota": 1.8,
+        "estado": "Pendiente",
+        "ganancia_bruta": 0.0,
+        "ganancia_neta": 0.0
+    }
+]

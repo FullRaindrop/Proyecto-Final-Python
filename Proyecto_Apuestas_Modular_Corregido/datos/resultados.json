@@ -1,0 +1,53 @@
+{
+    "2026-07-15|inglaterra|argentina": {
+        "id_externo": "760515",
+        "fecha": "2026-07-15T19:00Z",
+        "equipo_local": "Inglaterra",
+        "equipo_visitante": "Argentina",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "estado": "Full Time",
+        "finalizado": true,
+        "fuentes": [
+            "ESPN"
+        ],
+        "conflicto": false,
+        "fuente": "ESPN",
+        "fecha_consultada": "2026-07-15",
+        "fecha_registro": "2026-07-16 19:19:51"
+    },
+    "2026-07-18|francia|inglaterra": {
+        "id_externo": "760516",
+        "fecha": "2026-07-18T21:00Z",
+        "equipo_local": "Francia",
+        "equipo_visitante": "Inglaterra",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "estado": "Scheduled",
+        "finalizado": false,
+        "fuentes": [
+            "ESPN"
+        ],
+        "conflicto": false,
+        "fuente": "ESPN",
+        "fecha_consultada": "2026-07-18",
+        "fecha_registro": "2026-07-16 19:22:40"
+    },
+    "2026-07-19|espana|argentina": {
+        "id_externo": "760517",
+        "fecha": "2026-07-19T19:00Z",
+        "equipo_local": "España",
+        "equipo_visitante": "Argentina",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "estado": "Scheduled",
+        "finalizado": false,
+        "fuentes": [
+            "ESPN"
+        ],
+        "conflicto": false,
+        "fuente": "ESPN",
+        "fecha_consultada": "2026-07-19",
+        "fecha_registro": "2026-07-16 19:23:00"
+    }
+}
